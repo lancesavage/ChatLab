@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ChatLabAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ChatLab */ = {
+		activeExec = 0;
+		executables = (
+			C3C1079910C7313500F8B04A /* ChatLab */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChatLabViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {887, 338}}";
+			sepNavSelRange = "{442, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChatLabViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 1316}}";
+			sepNavSelRange = "{2006, 5}";
+			sepNavVisRange = "{1663, 348}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C3C1079910C7313500F8B04A /* ChatLab */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChatLab */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ChatLab */,
+		);
+		codeSenseManager = C3C107A310C7315500F8B04A /* Code sense */;
+		executables = (
+			C3C1079910C7313500F8B04A /* ChatLab */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286966725;
+			PBXWorkspaceStateSaveDate = 286966725;
+		};
+		perUserProjectItems = {
+			C30D9985111AC3D000D96F39 /* PBXTextBookmark */ = C30D9985111AC3D000D96F39 /* PBXTextBookmark */;
+			C30D9986111AC3D000D96F39 /* PBXTextBookmark */ = C30D9986111AC3D000D96F39 /* PBXTextBookmark */;
+			C3C107BA10C73A6500F8B04A /* PBXTextBookmark */ = C3C107BA10C73A6500F8B04A /* PBXTextBookmark */;
+			C3E2A97E10CCD23000A86695 /* PBXTextBookmark */ = C3E2A97E10CCD23000A86695 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C3C107A210C7315500F8B04A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C30D9985111AC3D000D96F39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChatLabViewController.h */;
+		name = "ChatLabViewController.h: 10";
+		rLen = 291;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 136;
+	};
+	C30D9986111AC3D000D96F39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChatLabViewController.h */;
+		name = "ChatLabViewController.h: 18";
+		rLen = 0;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	C3C1079910C7313500F8B04A /* ChatLab */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChatLab;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C3C107A210C7315500F8B04A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C3C107A310C7315500F8B04A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C3C107BA10C73A6500F8B04A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChatLabAppDelegate.m */;
+		name = "ChatLabAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	C3E2A97E10CCD23000A86695 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChatLabViewController.m */;
+		name = "ChatLabViewController.m: 85";
+		rLen = 5;
+		rLoc = 2006;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 1663;
+	};
+}
